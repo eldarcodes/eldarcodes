@@ -1,4 +1,4 @@
-### <p align="center"><strong>Hi there 👋</strong></p>
+### Hi there 👋
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-#### 📈 Github Stats
+### 📈 Github Stats
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzabekov00&hide=html,scss,less,css,php,blade,shell&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
@@ -15,8 +15,8 @@
 
 ---
 
-#### Trophies
+### Trophies
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mirzabekov00&theme=darkhub&margin-w=12&margin-h=5&column=7"  />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mirzabekov00&theme=darkhub&margin-w=10&title=Repositories,Commit,PullRequest,AncientUser" />
 </p>
