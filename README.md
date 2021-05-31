@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+💻 I'm currently working on [TypeScript](https://www.typescriptlang.org/) and [GraphQL](https://graphql.org/)
 
 
 <img src="https://komarev.com/ghpvc/?username=mirzabekov00&label=Profile%20views&color=00acee&style=flat" />
@@ -19,3 +19,4 @@
 
 ## 🏆 Trophies 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mirzabekov00&theme=darkhub&margin-w=10&title=Repositories,Commit,PullRequest,AncientUser" />
+
