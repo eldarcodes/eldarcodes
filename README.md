@@ -18,5 +18,5 @@
 
 
 ## 🏆 Trophies 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mirzabekov00&theme=darkhub&margin-w=10&title=Repositories,Commit,PullRequest,AncientUser" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mirzabekov00&theme=onedark&margin-w=10&title=Repositories,Commit,PullRequest,AncientUser" />
 
