@@ -11,4 +11,9 @@
 
 ---
 
-![Metrics](https://github.com/mirzabekov00/mirzabekov00/blob/main/github-metrics.svg)
+<p align="center">
+  <img
+    src="https://github.com/mirzabekov00/mirzabekov00/blob/main/github-metrics.svg"
+    alt="Metrics"
+  />
+</p>
