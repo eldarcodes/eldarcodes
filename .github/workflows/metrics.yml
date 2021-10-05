@@ -18,6 +18,6 @@ jobs:
           base: header, activity
 #           plugin_followup: yes
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, less
+          plugin_languages_ignored: html, css, scss, less, php
           plugin_languages_colors: github
           plugin_languages_details: percentage, bytes-size
