@@ -38,10 +38,10 @@
   followed by <b>23</b> users
 </div>
 <div class="stdin"><span class="ps1-path">mirzabekov00@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1342</b> commits
-  <b>   39</b> pull requests reviewed
-  <b>  108</b> pull requests opened
-  <b>   19</b> issues opened
+  <b> 1147</b> commits
+  <b>   38</b> pull requests reviewed
+  <b>  107</b> pull requests opened
+  <b>   18</b> issues opened
   <b>    2</b> issue comments
 </div>
 <div class="stdin"><span class="ps1-path">mirzabekov00@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [###########         ] 51.91%
