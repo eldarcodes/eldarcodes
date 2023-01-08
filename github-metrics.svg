@@ -35,12 +35,12 @@
 
 <pre><div class="stdin"><span class="ps1-path">eldarcodes@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Eldar Mirzabekov</b> registered=3y, uid=0944, gid=0
   contributed to 33 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>35</b> users
+  followed by <b>34</b> users
 </div>
 <div class="stdin"><span class="ps1-path">eldarcodes@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b> 1441</b> commits
   <b>    1</b> pull request reviewed
-  <b>   16</b> pull requests opened
+  <b>   15</b> pull requests opened
   <b>    7</b> issues opened
   <b>    2</b> issue comments
 </div>
