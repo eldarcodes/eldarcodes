@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I'm currently working on [*Nest.js*](https://nestjs.com/) and [*TypeScript*](https://www.typescriptlang.org/)
+💻 I'm currently working on [*React.js*](https://reactjs.org/) and [*TypeScript*](https://www.typescriptlang.org/)
 
 <img src="https://komarev.com/ghpvc/?username=eldarcodes&label=Profile%20views&color=00acee&style=flat" />
 
