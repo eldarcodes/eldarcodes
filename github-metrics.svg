@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="484" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="342" class="">
   
 
   <defs><style>@font-face {
@@ -44,15 +44,7 @@
   <b>   31</b> issues opened
   <b>    3</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">eldarcodes@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [##########          ] 48.71%
-<b>TYPESCRIPT  </b> [##########          ] 46.40%
-<b>VUE         </b> [#                   ] 1.28 %
-<b>BLADE       </b> [#                   ] 1.14 %
-<b>SHELL       </b> [#                   ] 0.66 %
-<b>C#          </b> [#                   ] 0.62 %
-<b>JAVA        </b> [#                   ] 0.60 %
-<b>HANDLEBARS  </b> [#                   ] 0.59 %
-</div>
+<div class="stdin"><span class="ps1-path">eldarcodes@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
 
 </pre>
 
