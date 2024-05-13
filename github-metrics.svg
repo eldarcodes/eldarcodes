@@ -40,8 +40,8 @@
 <div class="stdin"><span class="ps1-path">eldarcodes@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b> 2169</b> commits
   <b>    2</b> pull requests reviewed
-  <b>   36</b> pull requests opened
-  <b>   22</b> issues opened
+  <b>   31</b> pull requests opened
+  <b>   21</b> issues opened
   <b>    6</b> issue comments
 </div>
 <div class="stdin"><span class="ps1-path">eldarcodes@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [##############      ] 68.99%
